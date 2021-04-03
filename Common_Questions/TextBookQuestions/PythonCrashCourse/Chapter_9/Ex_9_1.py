@@ -35,7 +35,7 @@ restaurant.describe_restaurant()
 
 restaurant.describe_restaurant3('town_house','westchester') #or Restaurant.describe_restaurant3('town_house','westchester')
 
-Restaurant.open_restaurant("You're welcome to the partake in a free raffle draw")
+restaurant.open_restaurant("You're welcome to the partake in a free raffle draw")
 #or restaurant.open_restaurant("You're welcome to the partake in a free raffle draw"). For this one the function itself will need to have the self instance.
 #eg def open_restaurant(self,message):
 
