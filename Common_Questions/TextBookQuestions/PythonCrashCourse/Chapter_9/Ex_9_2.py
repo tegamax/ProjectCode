@@ -16,7 +16,7 @@ class Restaurant:
 
 
 
-
+#Three instances were created from the class
 my_restaurant = Restaurant('Eureka','American','Mountain View')
 my_restaurant.describe_restaurant()
 
